@@ -6,4 +6,4 @@ Program for Azur lane scrambled png defragment
 
 Samples on /bin/Release/
 
-Inputs: Pair or .png and .obj from Unity Assets Bundle Extractor https://github.com/DerPopo/UABE/
+Inputs: Pair or .png (Texture2D) and .obj (Mesh) from Unity Assets Bundle Extractor https://github.com/DerPopo/UABE/
